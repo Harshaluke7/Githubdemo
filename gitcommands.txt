@@ -1,0 +1,16 @@
+GIT Basic Commands
+
+-> git status
+-> git init
+-> git add filename
+-> git add .
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
+-> 
