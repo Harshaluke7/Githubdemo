@@ -1,15 +1,49 @@
 GIT Basic Commands
 
 -> git status
+=> to check the status of the file whether it is saved or not
+
 -> git init
+=> to initialise 
+
 -> git add filename
+=> to add a file 
+
 -> git add .
--> 
--> 
--> 
--> 
--> 
--> 
+=> to add all files at once
+
+-> git commit -m "new files"
+=> commit files to repository
+
+-> git config --global user.email "harshaluke7@gmail.com"
+=> to add email 
+
+-> git config --global user.name "Harsha luke"
+=> to add name 
+
+-> git log
+
+-> git diff
+=> know exactly what you have changed
+
+-> git ls-files
+=> list all files available in staging area
+
+-> git rm filename
+=> remove the file from staging area and local directory
+
+-> git rm --'cached filename'
+=> to keep a file on working directory but not in staging area so that git can't cant track this file
+
+Branching
+-> git status
+
+-> git branch
+=> dispalys the available branches
+
+-> git branch branch name 
+=> adds new branch
+
 -> 
 -> 
 -> 
