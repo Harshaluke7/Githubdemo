@@ -36,7 +36,6 @@ GIT Basic Commands
 => to keep a file on working directory but not in staging area so that git can't cant track this file
 
 Branching
--> git status
 
 -> git branch
 => dispalys the available branches
@@ -44,7 +43,9 @@ Branching
 -> git branch branch name 
 => adds new branch
 
--> 
+-> git checkout -b third-branch
+=> create and switch to third branch
+
 -> 
 -> 
 -> 
