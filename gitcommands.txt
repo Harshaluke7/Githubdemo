@@ -46,6 +46,9 @@ Branching
 -> git checkout -b third-branch
 => create and switch to third branch
 
--> 
--> 
--> 
+-> git remote add origin https://github.com/Harshaluke7/Githubdemo.git
+=> helpful to connect repository to remote repository
+
+
+-> git push -u origin master
+=> push changes to remote repository from local directory
